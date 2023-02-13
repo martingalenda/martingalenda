@@ -1,7 +1,7 @@
 
 # Hi 👋 I'm Martín Galenda!
 
-Nice to have your visit 🤙
+Nice to see you here 🤙
 
 
 
@@ -15,7 +15,7 @@ Soft skills: Lidership, analytical (Business intelligence), proactive, and witty
 
 ## Tech Stack
 
-💻 **Client:** React, [ Redux || Context ], [ Tailwind || Sass ]
+💻 **Client:** React, [ Redux || Context ], [ Tailwind || Sass ], JSON
 
 🗄️ **Server:** SQL, Java.
 
