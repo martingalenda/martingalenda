@@ -18,7 +18,7 @@ Never stop learning because life never stops teaching 🤓
 
 ## Tech Stack
 
-💻 **Client:** React, [ Redux || Context ], [ Tailwind || Sass ], JSON
+💻 **Client:** React, [ Redux || Context ], [ Tailwind || Sass ], JSON, TypeScript, Jsx.
 
 🗄️ **Server:** SQL, Java.
 
