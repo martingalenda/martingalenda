@@ -18,10 +18,10 @@ Never stop learning because life never stops teaching 🤓
 
 ## Tech Stack
 
-💻 **Client:** React, [ Redux || Context ], [ Tailwind || Sass ], JSON, TypeScript, Jsx.
+💻 **Client:** React, [ Redux | Context ], [ Tailwind | Sass ], JSON, TypeScript, Jsx.
 
 🗄️ **Server:** SQL, Java.
 
 🖌️ **Design:** Figma, Photoshop.
 
-📅 **Management:** [ Scrum || Kanban ], [ Jira || Trello ], Miro, Hubstaff
+📅 **Management:** [ Scrum | Kanban ], [ Jira | Trello ], Miro, Hubstaff.
