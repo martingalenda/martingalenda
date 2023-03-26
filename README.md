@@ -12,6 +12,7 @@ Entrepreneur profile, with broad vision and future projection. Passionate about 
 Faithful admirer of open and decentralized technologies.
 
 Soft skills: Lidership, analytical (Business intelligence), proactive, and witty.
+
 Interpersonal skills: Retailer, empathic, creative, patient, resilient (persevering), and positive. 
 
 Never stop learning because life never stops teaching 🤓
