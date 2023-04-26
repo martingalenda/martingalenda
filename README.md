@@ -20,7 +20,7 @@ Never stop learning because life never stops teaching 🤓
 
 ## Tech Stack
 
-💻 **Client:** React, [ Redux | Context ], [ Tailwind | Sass ], JSON, TypeScript, Jsx.
+💻 **Client:** React, [ Redux | Context ], [ Tailwind | Sass | MUI ], JSON, TypeScript, Jsx.
 
 🗄️ **Server:** SQL, Java.
 
