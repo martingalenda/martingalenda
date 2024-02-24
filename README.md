@@ -3,27 +3,24 @@
 
 Nice to see you here 🤙
 
-
-
 ## 🤵 About Me
 
-+9 years of experience in Software development: Managing projects, programming, and/or designing. 
-Entrepreneur profile, with broad vision and future projection. Passionate about teamwork, preferably using agile development methodologies.
-Faithful admirer of open and decentralized technologies.
+Specialized in software development, with over ten years of experience in the industry:
+Managing projects, coding, and/or designing interfaces. Primarily supported by: Scrum / Jira, React, & Figma.
 
-Soft skills: Lidership, analytical (Business intelligence), proactive, and witty.
+Entrepreneurial mindset, with a broad vision and future focus. Accustomed to working in remote teams, while always applying agile development methodologies. A devoted admirer of open and decentralized technologies.
 
-Interpersonal skills: Retailer, empathic, creative, patient, resilient (persevering), and positive. 
+Soft skills: Lidership, analytical (Business intelligence), proactive.
+Interpersonal qualities: Meticulous, dedicated, empathetic, creative, and positive. 
 
-Never stop learning because life never stops teaching 🤓
-
+I never stop learning, because life never stops teaching me 🤓
 
 ## Tech Stack
 
-💻 **Client:** React, [ Redux | Context ], [ Tailwind | Sass | MUI ], JSON, TypeScript, Jsx.
+💻 **Client:**  Vainilla.js, TypeScript, React Ecosystem [ MUI, Router, Form ], [ Tailwind | SCSS | Styled Components ], [ Redux | Zustand ], Jest.
 
-🗄️ **Server:** SQL, Java.
+🗄️ **Server:** SQL, Java (Begginer).
 
-🖌️ **Design:** Figma, Photoshop.
+🖌️ **Design:** Figma, Photoshop, Camtasia Studio.
 
-📅 **Management:** [ Scrum | Kanban ], [ Jira | Trello ], Miro, Hubstaff.
+📅 **Management:** GIT, [ GitHub | Bitbucket ], [ Scrum | Kanban ], [ Jira | Trello | Assana ], Miro, Hubstaff, Google Suite.
